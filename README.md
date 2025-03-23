@@ -1,5 +1,5 @@
 ### Olá, meu nome é Júlio
-Estudante de tecnologia com foco em desenvolvimento web.
+Estudante de tecnologia com foco em Backend.
 
 -👨🏻‍💻📚 Focado em aprender programação.
 -☄️ Apaixonado por Ciência
