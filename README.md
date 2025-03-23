@@ -1,9 +1,9 @@
 ### Olá, meu nome é Júlio
 Estudante de tecnologia com foco em desenvolvimento web.
 
--👨🏻‍💻📚 Amo estudar programação.
+-👨🏻‍💻📚 Focado em aprender programação.
 -☄️ Apaixonado por Ciência
--🎮 Meu hobby é jogos eletrônicos
+-🎮 Meu hobby é jogos eletrônicos e leitura.
 -🎧 Curto muito escutar música.
 - Atualmente focado em:
 
