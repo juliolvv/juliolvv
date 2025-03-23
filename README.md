@@ -1,4 +1,4 @@
-### Olá, meu nome é Júlio
+### Olá, meu nome é Júlio César
 Estudante de tecnologia com foco em Backend.
 
 -👨🏻‍💻📚 Focado em aprender programação.
