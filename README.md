@@ -2,10 +2,7 @@
 Estudante de tecnologia com foco em Backend.
 
 -👨🏻‍💻📚 Focado em aprender programação.
--☄️ Apaixonado por Ciência
--🎮 Meu hobby é jogos eletrônicos e leitura.
--🎧 Curto muito escutar música.
-- Atualmente focado em:
+- Mexo com Java e Banco de Dados SQL
 
 <div>
  <img width= "50" height= "50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
