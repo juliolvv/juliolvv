@@ -1,7 +1,7 @@
 ### Olá, meu nome é Júlio César
 Estudante de tecnologia com foco em Backend.
 
--👨🏻‍💻📚 Focado em aprender programação.
+-👨🏻‍💻📚 Focado em melhorar minhas habilidades de programação.
 - Mexo com Java e Banco de Dados SQL
 
 <div>
