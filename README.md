@@ -6,7 +6,7 @@ Estudante de tecnologia com foco em Backend.
 
 <div>
  <img width= "50" height= "50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
- <img width= "50" height= "50" src="https://icons8.com.br/icon/13679/java" />        
+ <img width= "50" height= "50" src="https://education.oracle.com/file/general/p-80-java.png" />        
 </div>
 
           
