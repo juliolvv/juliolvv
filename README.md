@@ -6,7 +6,7 @@ Estudante de tecnologia com foco em Backend.
 
 <div>
  <img width= "50" height= "50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
- <img width= "50" height= "50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />        
+ <img width= "50" height= "50" src=" />        
 </div>
 
           
