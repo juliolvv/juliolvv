@@ -1,38 +1,54 @@
 # Olá, meu nome é Júlio César 👋
 
-Estudante de tecnologia com foco em **Backend**, e agora expandindo meus conhecimentos para **DevOps** e **Cloud**.
+Estudante de tecnologia com foco em **Backend**, e expandindo meus conhecimentos para **DevOps** e **Cloud**.
 
-### 🌱 Atualmente aprendendo e me aprofundando em:
+---
 
-* Automação de tarefas e scripts com **Python**.
-* Conceitos de **DevOps** para otimizar pipelines de CI/CD.
-* Administração de sistemas **Linux**.
-* Serviços de Cloud (especialmente **AWS**).
-* Orquestração de contêineres com **Kubernetes**.
-* **Redes** de Computadores.
+### 📊 Minhas Estatísticas do GitHub
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+<p align="center">
+  <a href="https://github.com/juliolvv">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=juliolvv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" 
+      alt="Estatísticas do GitHub de Júlio" 
+    />
+  </a>
+  <a href="https://github.com/juliolvv">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliolvv&layout=compact&theme=github_dark" 
+      alt="Principais Linguagens de Júlio" 
+    />
+  </a>
+</p>
+
+---
+
+### 🛠️ Ferramentas, Tecnologias e Aprendizados
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
   </a>
   
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> 
   </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/> 
   </a>
+  
+  <img src="https://img.shields.io/badge/Redes_de_Computadores-4A4A4A?style=for-the-badge" alt="Redes"/>
 </p>
 
           
