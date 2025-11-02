@@ -9,7 +9,7 @@ Estudante de tecnologia com foco em **Backend**, e agora expandindo meus conheci
 * Administração de sistemas **Linux**.
 * Serviços de Cloud (especialmente **AWS**).
 * Orquestração de contêineres com **Kubernetes**.
-* Fundamentos de **Redes** de Computadores.
+* **Redes** de Computadores.
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
