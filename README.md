@@ -1,28 +1,6 @@
 # Olá, meu nome é Júlio César 👋
 
 Estudante de tecnologia com foco em **Backend**, e expandindo meus conhecimentos para **DevOps** e **Cloud**.
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/juliolvv">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=juliolvv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" 
-      alt="Estatísticas do GitHub de Júlio" 
-    />
-  </a>
-  <a href="https://github.com/juliolvv">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliolvv&layout=compact&theme=github_dark" 
-      alt="Principais Linguagens de Júlio" 
-    />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Ferramentas, Tecnologias e Aprendizados
