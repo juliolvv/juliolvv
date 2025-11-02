@@ -47,8 +47,5 @@ Estudante de tecnologia com foco em **Backend**, e expandindo meus conhecimentos
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/> 
   </a>
-  
-  <img src="https://img.shields.io/badge/Redes_de_Computadores-4A4A4A?style=for-the-badge" alt="Redes"/>
-</p>
 
           
