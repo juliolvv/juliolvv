@@ -2,7 +2,7 @@
 
   <p>
     Sou estudante de tecnologia com foco em <strong>Backend</strong> e estou expandindo
-    meus conhecimentos para a área de <strong>DevOps</strong> 🚀
+    meus conhecimentos para a área de <strong>Análise de Dados</strong> 🚀
   </p>
 
   <hr>
