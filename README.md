@@ -1,6 +1,6 @@
   # 💻 Olá, meu nome é Júlio César
 
-  **'Desenvolvedor Fullstack'**
+   **Desenvolvedor Fullstack**
 
 Sou estudante de tecnologia com foco em <strong>Backend</strong> e estou expandindo meus conhecimentos para a área de <strong>Análise de Dados</strong> 🚀
 
