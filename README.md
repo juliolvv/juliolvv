@@ -47,6 +47,15 @@ Sou estudante de tecnologia com foco em <strong>Backend</strong> e estou expandi
   <a href="https://github.com/juliolvv">
     <img alt="API RESTful" src="https://img.shields.io/badge/API_RESTful-005571?style=flat&logoColor=white">
 </a>
+  <a href="https://github.com/juliolvv">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+</a>
+ <a href="https://github.com/juliolvv">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white">
+</a>
+<a href="https://github.com/juliolvv?tab=repositories">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</a>
   <a href="https://github.com/juliolvv?tab=repositories&language=python">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   </a>
