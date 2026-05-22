@@ -40,9 +40,6 @@ Sou estudante de tecnologia com foco em <strong>Backend</strong> e estou expandi
   </a>
   <a href="https://github.com/juliolvv?tab=repositories&language=java">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-  </a>
-  <a href="https://github.com/juliolvv?tab=repositories&language=java">
-    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
 </a>
 <a href="https://github.com/juliolvv">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
