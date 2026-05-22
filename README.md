@@ -44,6 +44,9 @@ Sou estudante de tecnologia com foco em <strong>Backend</strong> e estou expandi
 <a href="https://github.com/juliolvv">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
 </a>
+  <a href="https://github.com/juliolvv">
+    <img alt="API RESTful" src="https://img.shields.io/badge/API_RESTful-005571?style=flat&logoColor=white">
+</a>
   <a href="https://github.com/juliolvv?tab=repositories&language=python">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   </a>
