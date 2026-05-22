@@ -42,7 +42,7 @@ Sou estudante de tecnologia com foco em <strong>Backend</strong> e estou expandi
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
   </a>
   <a href="https://github.com/juliolvv">
-    <img alt="Linux" src="[https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)">
+    <img alt="SpringBoot" src="https://imgs.search.brave.com/rX_3js6H44rfXvblSx7Ye1e1iyrocCoFNvolcA7in0Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9zcHJpbmct/Ym9vdC1pY29uLnBu/Zw">
   </a>
   <a href="https://github.com/juliolvv?tab=repositories&language=python">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
